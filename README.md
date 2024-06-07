@@ -28,6 +28,16 @@ Here is my main technological stack:
 ## &#x1f4c8; Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michaldyczko&layout=compact&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaldyczko&layout=compact&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🔭 My Projects
+
+- **pytorch-parametrizations** - 
+Implementation of Sadam introduced in the paper "Efficient Nonlinear Transforms for Lossy Image Compression" by Johannes Ballé, PCS 2018. 
+- **pytorch-smartcrop** -
+SmartCrop PyTorch torchvision-like transform based on libvips algorithm.
+- **gradientnorm-autoclipper** -
+Automatic gradient norm clipping inspired by the paper "AutoClip: Adaptive Gradient Clipping for Source Separation Networks" (https://arxiv.org/abs/2007.14469)
+
 <!--
 **michaldyczko/michaldyczko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
