@@ -31,11 +31,11 @@ Here is my main technological stack:
 
 ## 🔭 My Projects
 
-- **pytorch-parametrizations** - 
+- [**pytorch-parametrizations**](https://github.com/michaldyczko/pytorch-parametrizations) - 
 Implementation of Sadam introduced in the paper "Efficient Nonlinear Transforms for Lossy Image Compression" by Johannes Ballé, PCS 2018. 
-- **pytorch-smartcrop** -
+- [**pytorch-smartcrop**](https://github.com/michaldyczko/pytorch-smartcrop) -
 SmartCrop PyTorch torchvision-like transform based on libvips algorithm.
-- **gradientnorm-autoclipper** -
+- [**gradientnorm-autoclipper**](https://github.com/michaldyczko/gradientnorm-autoclipper) -
 Automatic gradient norm clipping inspired by the paper "AutoClip: Adaptive Gradient Clipping for Source Separation Networks" (https://arxiv.org/abs/2007.14469)
 
 <!--
